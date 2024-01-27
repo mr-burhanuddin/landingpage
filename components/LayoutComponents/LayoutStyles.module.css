@@ -1,0 +1,7 @@
+.companylogo a {
+  color: black;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: medium;
+  font-weight: 800;
+}
